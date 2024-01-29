@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @inginc
 - 👨‍💻 I’m interested in: Malware Development
-- 🧠 I’m currently learning: Python and a bit of PowerShell
+- 🧠 I’m currently learning: C++ and Python
 - 🤝 I’m looking to collaborate on: Anything if you wanna collab. But I doubt anyone will because I suck
 - 🌏 How to reach me: @inginc on Discord
 
