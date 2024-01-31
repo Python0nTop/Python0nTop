@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @inginc
-- 👨‍💻 I’m interested in: Malware Development
+- 👨‍💻 I’m interested in: Everything Python, nothing specific
 - 🧠 I’m currently learning: Python
 - 🤝 I’m looking to collaborate on: Anything if you wanna collab. But I doubt anyone will because I suck
 - 🌏 How to reach me: @inginc on Discord
