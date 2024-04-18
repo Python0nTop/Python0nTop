@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @inginc
-- 👨‍💻 I’m interested in: Everything Python, nothing specific
+- 👋 Hi, I’m inginc
+- 👨‍💻 I’m interested in: Cybersecurity
 - 🧠 I’m currently learning: Python
 - 🤝 I’m looking to collaborate on: Anything if you'd like to
 - 🌏 How to reach me: @inginc on Discord
